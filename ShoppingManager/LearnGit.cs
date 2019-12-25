@@ -7,5 +7,10 @@ namespace ShoppingManager
 {
     public class LearnGit
     {
+        public void Learn()
+        {
+            int i; //не в той ветке
+            Console.WriteLine("Учи ГИТ!");
+        }
     }
 }
