@@ -1,11 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace ShoppingManager
 {
-    public class ProductContext
+    class ProductContext : DbContext
     {
+        public ProductContext()
+            : base("DbConnection")
+        { }
+
+        public DbSet<Product> Products { get; set; }
     }
 }
