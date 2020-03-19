@@ -647,3 +647,7 @@ MigrationBackup/
 ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.csproj.FileListAbsolute.txt
 
 *.cache
+
+ShoppingManager/bin/Debug/netcoreapp3.1/
+
+ShoppingManager/obj/Debug/netcoreapp3.1/
