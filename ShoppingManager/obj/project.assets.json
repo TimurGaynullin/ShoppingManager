@@ -8,25 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Тимур\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Тимур\\Desktop\\ShoppingManager\\ShoppingManager\\ShoppingManager.csproj",
+      "projectUniqueName": "D:\\Projects\\ShoppingManager\\ShoppingManager\\ShoppingManager.csproj",
       "projectName": "ShoppingManager",
-      "projectPath": "C:\\Users\\Тимур\\Desktop\\ShoppingManager\\ShoppingManager\\ShoppingManager.csproj",
-      "packagesPath": "C:\\Users\\Тимур\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Тимур\\Desktop\\ShoppingManager\\ShoppingManager\\obj\\",
+      "projectPath": "D:\\Projects\\ShoppingManager\\ShoppingManager\\ShoppingManager.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\ShoppingManager\\ShoppingManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "D:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Тимур\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
