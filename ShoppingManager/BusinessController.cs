@@ -16,7 +16,7 @@ namespace ShoppingManager
     public class BusinessController : Controller
     {
         [HttpGet]
-        public ActionResult Get()
+        public async Task<ActionResult> Get()
         {
             //return Ok("Привет!");
             return BadRequest();
