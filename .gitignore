@@ -651,3 +651,7 @@ ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.csproj.FileListAbsolute.
 ShoppingManager/bin/Debug/netcoreapp3.1/
 
 ShoppingManager/obj/Debug/netcoreapp3.1/
+
+ShoppingManager/obj/project.assets.json
+
+ShoppingManager/obj/ShoppingManager.csproj.nuget.dgspec.json
