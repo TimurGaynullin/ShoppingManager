@@ -655,3 +655,5 @@ ShoppingManager/obj/Debug/netcoreapp3.1/
 ShoppingManager/obj/project.assets.json
 
 ShoppingManager/obj/ShoppingManager.csproj.nuget.dgspec.json
+
+ShoppingManager/obj/ShoppingManager.csproj.nuget.g.props
