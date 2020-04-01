@@ -10,6 +10,6 @@ namespace ShoppingManager
             : base("DbConnection")
         { }
 
-        public DbSet<Product> Products { get; set; }
+        //public DbSet<Product> Products { get; set; } //таблица с продуктами
     }
 }
