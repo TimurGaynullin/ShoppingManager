@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {
   "version": 1,
   "dgSpecHash": "fcxiBJGTnGzpTNlCA4pZG+v37Atv4dUPpW0bRvL3fM4rZ1Gt0wsnTlJxZtVPqjQ6a25n3I+Fe40N0DiOoZa5PQ==",
   "success": true
+=======
+{
+  "version": 1,
+  "dgSpecHash": "tdHFkdBUbZCqCPs184ZTAiEJ69yWJfY0YoYOsgj8poG2NnX4XRkpe1N7c82ouYjzgOu+YkI0J/Kf5PlfqR5WKg==",
+  "success": true
+>>>>>>> Controller
 }
