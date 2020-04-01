@@ -1,32 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\ShoppingManager\\ShoppingManager\\ShoppingManager.csproj": {}
+    "/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/ShoppingManager.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\ShoppingManager\\ShoppingManager\\ShoppingManager.csproj": {
+    "/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/ShoppingManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ShoppingManager\\ShoppingManager\\ShoppingManager.csproj",
+        "projectUniqueName": "/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/ShoppingManager.csproj",
         "projectName": "ShoppingManager",
-        "projectPath": "D:\\Projects\\ShoppingManager\\ShoppingManager\\ShoppingManager.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ShoppingManager\\ShoppingManager\\obj\\",
+        "projectPath": "/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/ShoppingManager.csproj",
+        "packagesPath": "/Users/alsufatkhutdinova/.nuget/packages/",
+        "outputPath": "/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/alsufatkhutdinova/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -82,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,76 +1,117 @@
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.exe
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.deps.json
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.runtimeconfig.json
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.runtimeconfig.dev.json
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.dll
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.pdb
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.csprojAssemblyReference.cache
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingManager.StaticWebAssets.Manifest.cache
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingManager.StaticWebAssets.xml
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.MvcApplicationPartsAssemblyInfo.cache
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.AssemblyInfoInputs.cache
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.AssemblyInfo.cs
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.RazorTargetAssemblyInfo.cache
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.dll
-D:\Документы\Visual Studio\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.pdb
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.exe
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.deps.json
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.runtimeconfig.json
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.runtimeconfig.dev.json
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.dll
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.pdb
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.csprojAssemblyReference.cache
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingManager.StaticWebAssets.Manifest.cache
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingManager.StaticWebAssets.xml
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.AssemblyInfoInputs.cache
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.AssemblyInfo.cs
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.RazorTargetAssemblyInfo.cache
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.dll
-C:\Users\Тимур\Desktop\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.pdb
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.exe
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.deps.json
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.runtimeconfig.json
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.runtimeconfig.dev.json
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\ShoppingManager.pdb
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\EntityFramework.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\System.Web.Http.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\System.CodeDom.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Projects\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.csprojAssemblyReference.cache
-D:\Projects\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.AssemblyInfoInputs.cache
-D:\Projects\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.AssemblyInfo.cs
-D:\Projects\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.RazorTargetAssemblyInfo.cache
-D:\Projects\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.csproj.CopyComplete
-D:\Projects\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingManager.StaticWebAssets.Manifest.cache
-D:\Projects\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingManager.StaticWebAssets.xml
-D:\Projects\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.dll
-D:\Projects\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.pdb
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Projects\ShoppingManager\ShoppingManager\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
-D:\Projects\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.MvcApplicationPartsAssemblyInfo.cs
-D:\Projects\ShoppingManager\ShoppingManager\obj\Debug\netcoreapp3.1\ShoppingManager.MvcApplicationPartsAssemblyInfo.cache
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.exe
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.deps.json
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.runtimeconfig.json
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.runtimeconfig.dev.json
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.dll
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.pdb
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.csprojAssemblyReference.cache
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/staticwebassets/ShoppingManager.StaticWebAssets.Manifest.cache
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/staticwebassets/ShoppingManager.StaticWebAssets.xml
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.MvcApplicationPartsAssemblyInfo.cache
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.AssemblyInfoInputs.cache
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.AssemblyInfo.cs
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.RazorTargetAssemblyInfo.cache
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.dll
+D:/Документы/Visual Studio/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.pdb
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.exe
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.deps.json
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.runtimeconfig.json
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.runtimeconfig.dev.json
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.dll
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.pdb
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.csprojAssemblyReference.cache
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/staticwebassets/ShoppingManager.StaticWebAssets.Manifest.cache
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/staticwebassets/ShoppingManager.StaticWebAssets.xml
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.AssemblyInfoInputs.cache
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.AssemblyInfo.cs
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.RazorTargetAssemblyInfo.cache
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.dll
+C:/Users/Тимур/Desktop/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.pdb
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.exe
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.deps.json
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.runtimeconfig.json
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.runtimeconfig.dev.json
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.pdb
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/EntityFramework.SqlServer.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/EntityFramework.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/System.Web.Http.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/Projects/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.csprojAssemblyReference.cache
+D:/Projects/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.AssemblyInfoInputs.cache
+D:/Projects/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.AssemblyInfo.cs
+D:/Projects/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.RazorTargetAssemblyInfo.cache
+D:/Projects/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.csproj.CopyComplete
+D:/Projects/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/staticwebassets/ShoppingManager.StaticWebAssets.Manifest.cache
+D:/Projects/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/staticwebassets/ShoppingManager.StaticWebAssets.xml
+D:/Projects/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.dll
+D:/Projects/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.pdb
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Projects/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Swashbuckle.Core.dll
+D:/Projects/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.MvcApplicationPartsAssemblyInfo.cs
+D:/Projects/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.MvcApplicationPartsAssemblyInfo.cache
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.deps.json
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.runtimeconfig.json
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.runtimeconfig.dev.json
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/ShoppingManager.pdb
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/EntityFramework.SqlServer.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/EntityFramework.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/System.Net.Http.Formatting.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/System.Web.Http.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/Swashbuckle.Core.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.csprojAssemblyReference.cache
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.MvcApplicationPartsAssemblyInfo.cs
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.MvcApplicationPartsAssemblyInfo.cache
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.AssemblyInfoInputs.cache
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.AssemblyInfo.cs
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.RazorTargetAssemblyInfo.cache
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.csproj.CopyComplete
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/staticwebassets/ShoppingManager.StaticWebAssets.Manifest.cache
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/staticwebassets/ShoppingManager.StaticWebAssets.xml
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.dll
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.pdb
+/Users/alsufatkhutdinova/Documents/ShoppingManager/ShoppingManager/obj/Debug/netcoreapp3.1/ShoppingManager.genruntimeconfig.cache
