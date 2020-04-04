@@ -17,16 +17,14 @@ namespace ShoppingManager
     {
         public ProductContext db;
         public BusinessController(ProductContext context)
-
         {
-
             db = context;
-
         }
+
         [HttpGet]
         public List<Product> Get()
         {
-            db.Products.Add(new Product { Name = "Горький шоколад", Amount = 1, Discount = 0, Price =  70});
+            db.Products.Add(new Product { Name = "Горький шоколад", Amount = 1, Discount = 0, Price = 70 });
             db.SaveChanges();
             var list = db.Products.ToList();
             return list;
