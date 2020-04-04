@@ -15,13 +15,21 @@ namespace ShoppingManager
     [Route("/api/[controller]")]
     public class BusinessController : Controller
     {
-        [HttpGet]
-        public async Task<ActionResult> Get()
+        public ProductContext db;
+        public BusinessController(ProductContext context)
+
         {
-            //return Ok("Привет!");
-            return BadRequest();
-            //return "Привет!";
-            //return null;
+
+            db = context;
+
+        }
+        [HttpGet]
+        public List<Product> Get()
+        {
+            db.Products.Add(new Product { Name = "Горький шоколад", Amount = 1, Discount = 0, Price =  70});
+            db.SaveChanges();
+            var list = db.Products.ToList();
+            return list;
         }
 
         //[HttpGet]
