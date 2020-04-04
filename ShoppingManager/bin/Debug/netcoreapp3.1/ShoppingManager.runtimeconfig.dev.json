@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\Тимур\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Тимур\\.nuget\\packages",
-      "C:\\Microsoft\\Xamarin\\NuGet",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-    ]
-  }
-=======
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
@@ -18,5 +7,4 @@
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
->>>>>>> Controller
 }
