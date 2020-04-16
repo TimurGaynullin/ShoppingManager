@@ -1,11 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc.ApiExplorer;
-
-using System.Web.Http;
+//using System.Web.Http;
+using FromBodyAttribute = Microsoft.AspNetCore.Mvc.FromBodyAttribute;
 using HttpGetAttribute = Microsoft.AspNetCore.Mvc.HttpGetAttribute;
 using RouteAttribute = Microsoft.AspNetCore.Mvc.RouteAttribute;
 
@@ -22,20 +19,47 @@ namespace ShoppingManager
         }
 
         [HttpGet]
-        public List<Product> Get()
+        public List<Product> Get() //получение (Read)
         {
-            db.Products.Add(new Product { Name = "Горький шоколад", Amount = 1, Discount = 0, Price = 70 });
-            db.SaveChanges();
             var list = db.Products.ToList();
             return list;
         }
 
-        //[HttpGet]
-        //public string Get()
-        //{
-        //    return Ok("Привет!");
-        //    return "Привет!";
-        //    return null;
-        //}
+        //запись (Create)
+        [HttpPost]
+        public IActionResult Create([FromBody]Product entity)
+        {
+            db.Products.Add(entity);
+            db.SaveChanges();
+            return Ok();
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id) //удаление (Delete)
+        {
+            var product = db.Products.Find(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            db.Products.Remove(product);
+            db.SaveChanges();
+            return Ok();
+        }
+
+        [HttpPut("{id}")]
+        public IActionResult Update(int id, [FromBody]Product entity) //изменение (Update)
+        {
+            var product = db.Products.Find(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            db.Products.Update(entity);
+            db.SaveChanges();
+            return Ok();
+        }
     }
 }
