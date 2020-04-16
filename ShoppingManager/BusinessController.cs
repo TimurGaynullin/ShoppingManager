@@ -1,10 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
-//using System.Web.Http;
-using FromBodyAttribute = Microsoft.AspNetCore.Mvc.FromBodyAttribute;
-using HttpGetAttribute = Microsoft.AspNetCore.Mvc.HttpGetAttribute;
-using RouteAttribute = Microsoft.AspNetCore.Mvc.RouteAttribute;
 
 namespace ShoppingManager
 {
@@ -19,13 +15,12 @@ namespace ShoppingManager
         }
 
         [HttpGet]
-        public List<Product> Get() //получение (Read)
+        public List<Product> Get()
         {
             var list = db.Products.ToList();
             return list;
         }
 
-        //запись (Create)
         [HttpPost]
         public IActionResult Create([FromBody]Product entity)
         {
@@ -35,7 +30,7 @@ namespace ShoppingManager
         }
 
         [HttpDelete("{id}")]
-        public IActionResult Delete(int id) //удаление (Delete)
+        public IActionResult Delete(int id)
         {
             var product = db.Products.Find(id);
             if (product == null)
@@ -49,17 +44,11 @@ namespace ShoppingManager
         }
 
         [HttpPut("{id}")]
-        public IActionResult Update(int id, [FromBody]Product entity) //изменение (Update)
+        public IActionResult Update([FromBody]Product entity)
         {
-            var product = db.Products.Find(id);
-            if (product == null)
-            {
-                return NotFound();
-            }
-
-            db.Products.Update(entity);
+            db.Update(entity);
             db.SaveChanges();
-            return Ok();
+            return Ok(entity);
         }
     }
 }
